@@ -1,0 +1,11 @@
+p {
+	font: Times new Roman 13px/20px
+}
+h1 {
+	width: 300px;
+	font: bold Arial 40px red
+}
+h2 {
+	font: bold italic 40px/60px Arial;
+	text-indent: 50px;
+   }

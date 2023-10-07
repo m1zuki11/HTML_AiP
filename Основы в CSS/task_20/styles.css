@@ -1,0 +1,18 @@
+.a {
+	text-decoration: overline;
+	color: red;
+}
+.b {
+	text-decoration: line-through;
+	color: green;
+}
+.c {
+	font-family: arial;
+	text-decoration: underline;
+	color: black;
+}
+a {
+	color: red;
+   }
+   
+
